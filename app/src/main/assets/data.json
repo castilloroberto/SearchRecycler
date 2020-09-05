@@ -1,0 +1,172 @@
+{
+  "recargas": [
+    {
+      "title": "Super Recarga",
+      "precio": "100",
+      "codigo": "9*4",
+      "description": "10 GB + 60 Minutos a otras REDES y USA + Minutos y mensajes ilimitados a CLARO + WhatsApp ilimitado + Facebook + Twitter + 1 amigo favorito",
+      "vigenia": "7 dias ",
+      "index": "super recarga"
+    },
+    {
+      "title": "Super Recarga",
+      "precio": "50",
+      "codigo": "9*3",
+      "description": "5 GB + 30 Minutos a otras REDES y USA + Minutos y mensajes ilimitados a CLARO + WhatsApp ilimitado + Facebook  + 1 amigo favorito",
+      "vigenia": "3 dias",
+      "index": "super recarga"
+    },
+    {
+      "title": "Super Recarga",
+      "precio": "25",
+      "codigo": "9*2",
+      "description": "1.5 GB + 15 Minutos a otras REDES y USA + Minutos y mensajes ilimitados a CLARO + WhatsApp ilimitado + Facebook  + 1 amigo favorito",
+      "vigenia": "1 dia",
+      "index": "super recarga"
+    },
+    {
+      "title": "Internet Ilimitado",
+      "precio": "40",
+      "codigo": "3*8",
+      "description": "Internet ilimitado + llamadas ilimitadas a Claro + 20 MINUTOS A OTRAS REDES",
+      "vigenia": "1 dia",
+      "index": "ilimitado"
+    },
+    {
+      "title": "Super Recarga",
+      "precio": "16",
+      "codigo": "9*1",
+      "description": "200 MB llamadas, mensajes",
+      "vigenia": "1 dia",
+      "index": "super recarga"
+    },
+    {
+      "title": "Mensajes",
+      "precio": "24",
+      "codigo": "1*10",
+      "description": "350 Mensajes",
+      "vigenia": "2 dias",
+      "index": "mensajes"
+    },
+    {
+      "title": "Mensajes",
+      "precio": "13",
+      "codigo": "1*9",
+      "description": "160 Mensajes",
+      "vigenia": "1 dia",
+      "index": "mensajes"
+    },
+    {
+      "title": "Internet Ilimitado",
+      "precio": "70",
+      "codigo": "3*9",
+      "description": "Internet ilimitado + llamadas ilimitadas a Claro + 40 MINUTOS A OTRAS REDES",
+      "vigenia": "3 dias",
+      "index": "ilimitado"
+    },
+    {
+      "title": "Internet Ilimitado",
+      "precio": "150",
+      "codigo": "3*10",
+      "description": "Internet ilimitado + llamadas ilimitadas a Claro + 75 MINUTOS A OTRAS REDES",
+      "vigenia": "5 dias",
+      "index": "ilimitado"
+    },
+    {
+      "title": "Internet Ilimitado",
+      "precio": "15",
+      "codigo": "3*11",
+      "description": "Internet ilimitado + llamadas ilimitadas a Claro",
+      "vigenia": "3 horas",
+      "index": "ilimitado"
+    },
+    {
+      "title": "5 Minutos ",
+      "precio": "30",
+      "codigo": "5*3",
+      "description": " A España",
+      "vigenia": "1 dia",
+      "index": "llamadas"
+    },
+    {
+      "title": "15 Minutos  ",
+      "precio": "17",
+      "codigo": "5*5",
+      "description": "Llmadas a TODAS las REDES y USA ",
+      "vigenia": "1 dia",
+      "index": "llamadas"
+    },
+    {
+      "title": "30 Minutos  ",
+      "precio": "25",
+      "codigo": "5*6",
+      "description": "Llmadas a TODAS las REDES y USA ",
+      "vigenia": "2 dias",
+      "index": "llamadas"
+    },
+    {
+      "title": "45 Minutos  ",
+      "precio": "35",
+      "codigo": "5*7",
+      "description": "Llmadas a TODAS las REDES y USA ",
+      "vigenia": "1 dia",
+      "index": "llamadas"
+    },
+    {
+      "title": "60 Minutos  ",
+      "precio": "45",
+      "codigo": "5*8",
+      "description": "Llmadas a TODAS las REDES y USA ",
+      "vigenia": "3 dias",
+      "index": "llamadas"
+    },
+    {
+      "title": "100 Minutos  ",
+      "precio": "60",
+      "codigo": "5*9",
+      "description": "Llmadas a TODAS las REDES y USA ",
+      "vigenia": "3 dias",
+      "index": "llamadas"
+    },
+    {
+      "title": "5 Minutos  ",
+      "precio": "22",
+      "codigo": "5*10",
+      "description": "Llmadas a Mexico",
+      "vigenia": "1 dia",
+      "index": "llamadas"
+    },
+    {
+      "title": "WhatsApp",
+      "precio": "13",
+      "codigo": "7*1",
+      "description": "Chat Ilimitado",
+      "vigenia": "1 dia",
+      "index": "redes sociales"
+    },
+    {
+      "title": "Facebook",
+      "precio": "16",
+      "codigo": "7*2",
+      "description": "Facebook + Messenger",
+      "vigenia": "1 dia",
+      "index": "redes sociales"
+    },
+    {
+      "title": "Super Recarga",
+      "precio": "15",
+      "codigo": "9*1",
+      "description": "300 MB + 10 Minutos a otras REDES + 60 Minutos a CLARO + 60 MENSAJESA TODAS LAS REDES + 1 amigo favorito",
+      "vigenia": "1 dia",
+      "index": "super recarga"
+    },
+    {
+      "title": "Super Recarga",
+      "precio": "250",
+      "codigo": "9*5",
+      "description": "IGUAL A LA DE 100 CON EXEPCION DE LA VIGENCIA",
+      "vigenia": "15 dias",
+      "index": "super recarga"
+    }
+  ]
+}
